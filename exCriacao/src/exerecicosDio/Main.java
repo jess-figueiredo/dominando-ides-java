@@ -6,9 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		//Calculadora
-		System.out.println("=====================");
+		System.out.println("===================");
 		System.out.println("Exercício da calculadora");
-		System.out.println("=====================");
+		System.out.println("===================");
 		Calculadora.soma(8, 2);
 		Calculadora.subtracao(8, 2);
 		Calculadora.mult(8, 2);
@@ -16,9 +16,9 @@ public class Main {
 		System.out.println(" ");
 		
 		//Mensagem
-		System.out.println("=====================");
+		System.out.println("===================");
 		System.out.println("Exercício mensagem");
-		System.out.println("=====================");
+		System.out.println("===================");
 		Mensagem.obterMensagem(8);
 		Mensagem.obterMensagem(15);
 		Mensagem.obterMensagem(20);
@@ -26,9 +26,9 @@ public class Main {
 
 		
 		//Emprestimos
-		System.out.println("=====================");
+		System.out.println("===================");
 		System.out.println("Exercicio emprestimos");
-		System.out.println("=====================");
+		System.out.println("===================");
 		Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());
 		Emprestimo.calcular(1000, Emprestimo.getTresParcelas());
 		Emprestimo.calcular(1000, 10);
